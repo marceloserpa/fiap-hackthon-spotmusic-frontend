@@ -5,7 +5,7 @@ name: Hackthon Frontend Pipeline
 on: 
   push:
     branches:
-      - feat/pipeline
+      - feat/add-pipeline
 
 jobs:
   Build:
